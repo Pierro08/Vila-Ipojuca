@@ -175,7 +175,6 @@ a {
     height: 50%;
     margin-left: 2%;
     margin-bottom: 3%;
-    margin-right: -10px;
     margin-top: 3%;
     border-radius: 40px;
 }
@@ -185,7 +184,6 @@ a {
     height: 50%;
     margin-left: 2%;
     margin-bottom: 3%;
-    margin-right: -10px;
     margin-top: 3%;
     border-radius: 40px;
 }
@@ -194,7 +192,6 @@ a {
     width: 32%;
     margin-left: 2%;
     margin-bottom: 3%;
-    margin-right: -20px;
     margin-top: 3%;
     border-radius: 40px;
 }
@@ -203,7 +200,6 @@ a {
     width: 40%;
     margin-left: 2%;
     margin-bottom: 3%;
-    margin-right: -20px;
     margin-top: 4.5%;
     border-radius: 40px;
 }
@@ -290,7 +286,7 @@ a {
 }
 
 #rodape-linha {
-  margin-top: -2.5%;
+  margin-bottom: -2.5%;
   margin-left: 5%;
   margin-right: 10.5%;
   
@@ -308,5 +304,4 @@ a {
     position: relative;
     left: 70%;
     bottom: 25%;
-    /* margin-top: 40px; */
 }
